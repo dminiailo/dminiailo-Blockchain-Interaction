@@ -1,20 +1,23 @@
 {
-  "name": "blockchaininteraction", 
-  "version": "1.0.0", 
-  "description": "by dminiailo", 
+  "name": "blockchaininteraction",
+  "version": "1.0.1",
+  "description": "by dminiailo",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "" 
+    "url": "https://github.com/dminiailo/dminiailo-Blockchain-Interaction.git"
   },
-  "keywords": [ 
-    "", 
+  "keywords": [
+    "",
     "",
     ""
   ],
-  "author": "", 
-  "license": "MIT"
+  "author": "dminiailo",
+  "license": "MIT",
+  "dependencies": {
+    "localizationhelper": "^1.0.1"
+  }
 }
